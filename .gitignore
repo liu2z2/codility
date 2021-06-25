@@ -1,5 +1,5 @@
 .syntastic_cpp_config
-.vscode
+# .vscode
 TODO
 build
 
