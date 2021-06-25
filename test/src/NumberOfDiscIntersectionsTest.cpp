@@ -2,6 +2,7 @@
 #include <vector>
 #include <random>
 #include <functional>
+#include <climits>
 
 #include <gtest/gtest.h>
 #include <gflags/gflags.h>
